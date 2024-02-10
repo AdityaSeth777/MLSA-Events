@@ -1,0 +1,8 @@
+jupyterlab
+numpy
+pandas
+matplotlib
+wget
+PyQt5
+scipy
+scikit-learn
